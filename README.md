@@ -41,8 +41,11 @@
 ## 🎯 Strengths
 
 ✅ **Engineering Mindset:** Build maintainable and scalable code.
+
 ✅ **AI/ML & Vision:** Passionate about ML models, Computer Vision, and automation.
+
 ✅ **Quick Learner:** Adaptive to emerging technologies and multi-language development.
+
 ✅ **Team Player:** Strong communicator and collaborator.
 
 ---
