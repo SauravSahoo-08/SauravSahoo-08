@@ -15,9 +15,13 @@
 💻 **Passionate Developer | Problem Solver | Lifelong Learner**
 
 🎓 **B.Tech CSE (AI/ML)** student with a strong interest in **Web Development & AI/ML Software**.
+
 🚀 Focused on building **clean, scalable, and efficient solutions**.
+
 🎯 Currently exploring **Data Structure**, **Machine Learning**, **AI fundamentals**, and **Computer Vision (OpenCV)**.
+
 Currently I am in 1st year.
+
 ---
 
 ## 🧰 Tech Stack
