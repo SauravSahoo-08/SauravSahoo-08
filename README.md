@@ -20,7 +20,7 @@
 
 🎯 Currently exploring **Data Structure**, **Machine Learning**, **AI fundamentals**, and **Computer Vision (OpenCV)**.
 
-Currently I am in 1st year.
+😎 Currently I am in 1st year.
 
 ---
 
