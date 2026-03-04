@@ -12,9 +12,8 @@
 
 ## 👨‍💻 About Me
 
-<table>
-<tr>
-<td width="55%">
+<img align="right" alt="About Me Animation" width="350" 
+src="https://user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif" />
 
 💻 **Passionate Developer | Problem Solver | Lifelong Learner**
 
@@ -26,15 +25,12 @@
 
 😎 Currently I am in 1st year.
 
-</td>
+<br clear="right"/>
 
-<td width="45%" align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif" width="100%" alt="Side Animation" style="border-radius:15px;" />
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="500" alt="Coding Animation" />
+</p>
 
 ---
 
@@ -64,9 +60,11 @@
   <a href="mailto:saurav.sh2008@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  
   <a href="https://github.com/sauravsahoo-08" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  
   <a href="https://www.instagram.com/saurav._.2008" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
